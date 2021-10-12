@@ -1,3 +1,8 @@
-.vscode/
+# Dependecies & builds
 vendor/
 bin/
+
+# Misc
+.vscode/
+.DS_Store
+.dccache

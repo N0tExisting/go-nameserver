@@ -1,7 +1,14 @@
+# Build & Deps
+bin/
+vendor/
+
+# Configs & stuff
+.vscode/
 .git*
-bin
-.vscode
+
 LICENSE
 README.md
+# scripts
+build.*
+# Examples
 records-example.json
-build.sh
